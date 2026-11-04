@@ -1,0 +1,9 @@
+numpy
+pandas
+requests
+lightgbm
+vaderSentiment
+matplotlib
+streamlit
+plotly
+yfinance
